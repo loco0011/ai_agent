@@ -66,7 +66,7 @@ This will start:
 - MongoDB at localhost:27017
 
 ## API Endpoints
-
+-use your own openroute api key
 ### Chat Routes
 - `GET /api/chat/chats` - Get all chats
 - `POST /api/chat/chats` - Create a new chat
