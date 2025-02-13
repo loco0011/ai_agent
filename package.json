@@ -1,0 +1,12 @@
+{
+  "name": "ai_agent",
+  "version": "1.0.0",
+  "description": "A full-stack chat application with AI capabilities powered by OpenRouter API, built using React, Node.js, Express, and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

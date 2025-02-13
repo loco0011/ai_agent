@@ -10,6 +10,7 @@ const openai = new OpenAI({
   baseURL: 'https://openrouter.ai/api/v1'
 });
 
+
 // Create a new chat
 router.post('/chats', async (req, res) => {
   try {

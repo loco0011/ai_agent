@@ -26,7 +26,7 @@ services:
       - /app/node_modules
     environment:
       - NODE_ENV=development
-      - OPENROUTE_API_KEY=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
+      - OPENROUTE_API_KEY=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
     depends_on:
       - mongodb
 
