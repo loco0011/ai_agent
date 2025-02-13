@@ -186,4 +186,8 @@ ai_agent/
 
 ## License
 
+<<<<<<< HEAD
 This is a practice project by Sambit
+=======
+This is a practice project by Sambit
+>>>>>>> 4ee80c4daf3ea0854ec37ac4ee5139a5c49a43a8
